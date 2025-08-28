@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "TheSims4Updater": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\Games\\The Sims 4\\TheSims4Updater.exe",
+      "workingDirectory": "D:\\Games\\The Sims 4"
+    }
+  }
+}
